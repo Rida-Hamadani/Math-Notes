@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"c64f8697b32284b0","type":"file","file":"Covering.md","x":-1240,"y":-920,"width":400,"height":400},
+		{"id":"1b5b94da4ff51d87","type":"file","file":"Refinement of a Covering.md","x":-840,"y":-360,"width":400,"height":400},
+		{"id":"7e80783742869bf7","type":"file","file":"Locally Finite Covering.md","x":-1640,"y":-360,"width":400,"height":400},
+		{"id":"1f3a2eade14a5fd3","type":"file","file":"Hausdorff Space.md","x":-2536,"y":-360,"width":400,"height":400},
+		{"id":"9f9891bc98abf86a","type":"file","file":"Separation by Neighborhoods.md","x":-2536,"y":-920,"width":400,"height":400},
+		{"id":"876bc09649770aaa","type":"file","file":"Neighborhood.md","x":-2536,"y":-1480,"width":400,"height":400},
+		{"id":"0c59fc7a33921174","type":"file","file":"Paracompact.md","x":-2080,"y":280,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"c18fde6fa721832d","fromNode":"c64f8697b32284b0","fromSide":"bottom","toNode":"1b5b94da4ff51d87","toSide":"top"},
+		{"id":"99f4ac58306d2c79","fromNode":"c64f8697b32284b0","fromSide":"bottom","toNode":"7e80783742869bf7","toSide":"top"},
+		{"id":"e08613c53cb96d48","fromNode":"7e80783742869bf7","fromSide":"bottom","toNode":"0c59fc7a33921174","toSide":"top"},
+		{"id":"ab2cc4416bf2a9ba","fromNode":"1b5b94da4ff51d87","fromSide":"bottom","toNode":"0c59fc7a33921174","toSide":"top"},
+		{"id":"973feb145a503b06","fromNode":"1f3a2eade14a5fd3","fromSide":"bottom","toNode":"0c59fc7a33921174","toSide":"top"},
+		{"id":"0c792158f285f02b","fromNode":"9f9891bc98abf86a","fromSide":"bottom","toNode":"1f3a2eade14a5fd3","toSide":"top"},
+		{"id":"d81bfd8017ba823e","fromNode":"876bc09649770aaa","fromSide":"bottom","toNode":"9f9891bc98abf86a","toSide":"top"}
+	]
+}
