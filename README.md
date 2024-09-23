@@ -2,11 +2,13 @@
 These are my notes for the academic year 2024-2025, where I'm studying for the first year of a masters program in pure mathematics in the Lebanese university.
 If you found your way here, then chances are you are my classmate. If you are not, you are still welcome to use these notes, edit them, or contribute to them by opening issues or PRs.
 You will find here useful notes about the following subjects:
+
 - Topology and Functional Analysis
 - Measure Theory and Probability
 - Field and Galois Theory
 - Distribution Theory
 - Differential Geometry
+
 Please note that due to the difficulty of typesetting high quality notes during live classes, and due to my inability to refine these notes after classes because I have a job, I cannot promise a consistent quality (or quantity!) of notes here. Please do not depend on me and try to take your own notes. That being said, I hope you will find something helpful here.
 ### Setup
 In order to be able to get these notes on your computer, please install `git` and `obsidian`. Both are free, and have a lot of guides on how to install them.

@@ -8,7 +8,7 @@
 		{"id":"4c66ca95383563d9","type":"file","file":"Topology/Homeomorphism.md","x":440,"y":-2640,"width":400,"height":400},
 		{"id":"eafd2c08898ff01e","type":"file","file":"Differential Geometry/Coordinate Neighborhood.md","x":0,"y":-2640,"width":400,"height":400},
 		{"id":"699d77765a7d117c","type":"file","file":"Differential Geometry/Topological Manifold.md","x":-880,"y":-440,"width":400,"height":400},
-		{"id":"fe5f7fa8741bdcab","x":-880,"y":-1000,"width":400,"height":400,"type":"file","file":"Topology/Second Countable.md"},
+		{"id":"fe5f7fa8741bdcab","type":"file","file":"Topology/Second Countable.md","x":-880,"y":-1000,"width":400,"height":400},
 		{"id":"8385fdf4ad5242d8","type":"file","file":"Topology/Hausdorff Space.md","x":-1360,"y":-1000,"width":400,"height":400},
 		{"id":"0f00ce9dd3487ea0","type":"file","file":"Differential Geometry/Locally Euclidean Space.md","x":-400,"y":-1000,"width":400,"height":400}
 	],
