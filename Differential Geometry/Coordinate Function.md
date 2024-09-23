@@ -1,3 +1,4 @@
+#definition
 ### Types
 - `n` : $\mathbb{N}$
 - $\varphi$ : [[Coordinate Map]]

@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"c64f8697b32284b0","type":"file","file":"Covering.md","x":-1240,"y":-920,"width":400,"height":400},
-		{"id":"1b5b94da4ff51d87","type":"file","file":"Refinement of a Covering.md","x":-840,"y":-360,"width":400,"height":400},
-		{"id":"7e80783742869bf7","type":"file","file":"Locally Finite Covering.md","x":-1640,"y":-360,"width":400,"height":400},
-		{"id":"1f3a2eade14a5fd3","type":"file","file":"Hausdorff Space.md","x":-2536,"y":-360,"width":400,"height":400},
-		{"id":"9f9891bc98abf86a","type":"file","file":"Separation by Neighborhoods.md","x":-2536,"y":-920,"width":400,"height":400},
-		{"id":"876bc09649770aaa","type":"file","file":"Neighborhood.md","x":-2536,"y":-1480,"width":400,"height":400},
-		{"id":"0c59fc7a33921174","type":"file","file":"Paracompact.md","x":-2080,"y":280,"width":400,"height":400}
+		{"id":"c64f8697b32284b0","type":"file","file":"Differential Geometry/Covering.md","x":-1240,"y":-920,"width":400,"height":400},
+		{"id":"1b5b94da4ff51d87","type":"file","file":"Differential Geometry/Refinement of a Covering.md","x":-840,"y":-360,"width":400,"height":400},
+		{"id":"7e80783742869bf7","type":"file","file":"Differential Geometry/Locally Finite Covering.md","x":-1640,"y":-360,"width":400,"height":400},
+		{"id":"1f3a2eade14a5fd3","type":"file","file":"Topology/Hausdorff Space.md","x":-2536,"y":-360,"width":400,"height":400},
+		{"id":"9f9891bc98abf86a","type":"file","file":"Topology/Separation by Neighborhoods.md","x":-2536,"y":-920,"width":400,"height":400},
+		{"id":"876bc09649770aaa","type":"file","file":"Topology/Neighborhood.md","x":-2536,"y":-1480,"width":400,"height":400},
+		{"id":"0c59fc7a33921174","type":"file","file":"Differential Geometry/Paracompact.md","x":-2080,"y":280,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"c18fde6fa721832d","fromNode":"c64f8697b32284b0","fromSide":"bottom","toNode":"1b5b94da4ff51d87","toSide":"top"},

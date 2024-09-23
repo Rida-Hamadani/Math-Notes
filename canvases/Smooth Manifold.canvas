@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"699d77765a7d117c","x":-640,"y":-440,"width":400,"height":400,"type":"file","file":"Topological Manifold.md"},
-		{"id":"f9c892cd8b68f250","x":240,"y":-440,"width":400,"height":400,"type":"file","file":"Smooth Structure.md"},
-		{"id":"9fd22d69e876dfe4","x":-200,"y":120,"width":400,"height":400,"type":"file","file":"Smooth Manifold.md"},
-		{"id":"8385fdf4ad5242d8","x":-880,"y":-1000,"width":400,"height":400,"type":"file","file":"Hausdorff Space.md"},
-		{"id":"0f00ce9dd3487ea0","x":-440,"y":-1000,"width":400,"height":400,"type":"file","file":"Locally Euclidean Space.md"},
-		{"id":"05ffad498f85e4df","x":240,"y":-1000,"width":400,"height":400,"type":"file","file":"Smooth Atlas.md"},
-		{"id":"810ca57551c8270b","x":240,"y":-1520,"width":400,"height":400,"type":"file","file":"Chart.md"},
-		{"id":"8214db237669134c","x":240,"y":-2080,"width":400,"height":400,"type":"file","file":"Coordinate Function.md"},
-		{"id":"35a76783c26d6142","x":240,"y":-2640,"width":400,"height":400,"type":"file","file":"Coordinate Map.md"},
-		{"id":"eafd2c08898ff01e","x":0,"y":-3200,"width":400,"height":400,"type":"file","file":"Coordinate Neighborhood.md"},
-		{"id":"4c66ca95383563d9","x":440,"y":-3200,"width":400,"height":400,"type":"file","file":"Homeomorphism.md"}
+		{"id":"f9c892cd8b68f250","type":"file","file":"Differential Geometry/Smooth Structure.md","x":240,"y":-440,"width":400,"height":400},
+		{"id":"9fd22d69e876dfe4","type":"file","file":"Differential Geometry/Smooth Manifold.md","x":-200,"y":120,"width":400,"height":400},
+		{"id":"05ffad498f85e4df","type":"file","file":"Differential Geometry/Smooth Atlas.md","x":240,"y":-1000,"width":400,"height":400},
+		{"id":"810ca57551c8270b","type":"file","file":"Differential Geometry/Chart.md","x":240,"y":-1520,"width":400,"height":400},
+		{"id":"35a76783c26d6142","type":"file","file":"Differential Geometry/Coordinate Map.md","x":240,"y":-2080,"width":400,"height":400},
+		{"id":"4c66ca95383563d9","type":"file","file":"Topology/Homeomorphism.md","x":440,"y":-2640,"width":400,"height":400},
+		{"id":"eafd2c08898ff01e","type":"file","file":"Differential Geometry/Coordinate Neighborhood.md","x":0,"y":-2640,"width":400,"height":400},
+		{"id":"699d77765a7d117c","type":"file","file":"Differential Geometry/Topological Manifold.md","x":-880,"y":-440,"width":400,"height":400},
+		{"id":"fe5f7fa8741bdcab","x":-880,"y":-1000,"width":400,"height":400,"type":"file","file":"Topology/Second Countable.md"},
+		{"id":"8385fdf4ad5242d8","type":"file","file":"Topology/Hausdorff Space.md","x":-1360,"y":-1000,"width":400,"height":400},
+		{"id":"0f00ce9dd3487ea0","type":"file","file":"Differential Geometry/Locally Euclidean Space.md","x":-400,"y":-1000,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"d4e2370156dbfb66","fromNode":"f9c892cd8b68f250","fromSide":"bottom","toNode":"9fd22d69e876dfe4","toSide":"top"},
@@ -19,9 +19,9 @@
 		{"id":"e03cd2805bda1259","fromNode":"0f00ce9dd3487ea0","fromSide":"bottom","toNode":"699d77765a7d117c","toSide":"top"},
 		{"id":"4080747f2f6818d6","fromNode":"8385fdf4ad5242d8","fromSide":"bottom","toNode":"699d77765a7d117c","toSide":"top"},
 		{"id":"8dff192da935102d","fromNode":"810ca57551c8270b","fromSide":"bottom","toNode":"05ffad498f85e4df","toSide":"top"},
-		{"id":"504972b854766319","fromNode":"8214db237669134c","fromSide":"bottom","toNode":"810ca57551c8270b","toSide":"top"},
-		{"id":"cebbb478efefef88","fromNode":"35a76783c26d6142","fromSide":"bottom","toNode":"8214db237669134c","toSide":"top"},
 		{"id":"f225e1122ba48faa","fromNode":"eafd2c08898ff01e","fromSide":"bottom","toNode":"35a76783c26d6142","toSide":"top"},
-		{"id":"760527b1303f924e","fromNode":"4c66ca95383563d9","fromSide":"bottom","toNode":"35a76783c26d6142","toSide":"top"}
+		{"id":"760527b1303f924e","fromNode":"4c66ca95383563d9","fromSide":"bottom","toNode":"35a76783c26d6142","toSide":"top"},
+		{"id":"94dec3627bc634b0","fromNode":"35a76783c26d6142","fromSide":"bottom","toNode":"810ca57551c8270b","toSide":"top"},
+		{"id":"e9e8dbe8a6547a50","fromNode":"fe5f7fa8741bdcab","fromSide":"bottom","toNode":"699d77765a7d117c","toSide":"top"}
 	]
 }

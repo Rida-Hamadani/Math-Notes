@@ -1,5 +1,4 @@
+#theorem
 ### Statement
-
-
 
 ### Proof

@@ -1,12 +1,41 @@
 {
-  "collapse-filter": false,
-  "search": "path:-\"Templates\"",
+  "collapse-filter": true,
+  "search": "path:-\"Templates\" file:-\"README\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Topology  ",
+      "color": {
+        "a": 1,
+        "rgb": 62814
+      }
+    },
+    {
+      "query": "path:\"Measure Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7935
+      }
+    },
+    {
+      "query": "path:\"Differential Geometry\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Functional Analysis\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 0.8368060730169563,
+  "close": false
 }

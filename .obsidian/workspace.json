@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91b1315944ad3dd0",
+        "id": "7442de77441dfc35",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf8922f8d4c9858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Covering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "900a71d06f4eaef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locally Finite Covering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c53b1dbdb8ee2eb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paracompact.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0673dba6fa5b1e4",
+            "id": "d06c09a13c9a0e5d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -52,170 +16,43 @@
             }
           },
           {
-            "id": "b530b1604cd1639e",
+            "id": "77c0b34fbf85112b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hausdorff Space.md",
+                "file": "Topology/Intersection of Topologies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "77d42b625a490e51",
+            "id": "3277dd5ae1d66dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Covering.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "78fa58bdeb88f107",
+            "id": "27726b4598966953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locally Euclidean Space.md",
+                "file": "Measure Theory/README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "79fef8369bd65750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paracompact.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e23eccac6a1cea04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locally Euclidean Space.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25693e254a5da095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paracompact.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6729ef7bea801d4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Separation by Neighborhoods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d918690bd92e7681",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "855f61127a142eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coordinate Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5be950a1c726f0d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2dc33ff3eb3ed9b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Smooth Atlas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "950eaaedafc1f562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Smooth Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "433a9ff8acaab89a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topological Manifold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ef9b11990225071",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvases/Paracompact.canvas",
-                "viewState": {
-                  "x": -1488,
-                  "y": -400,
-                  "zoom": -1.5104155473561023
-                }
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvases/Paracompact.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canvases/Paracompact.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canvases/Paracompact.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -342,36 +179,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ef9b11990225071",
+  "active": "3277dd5ae1d66dec",
   "lastOpenFiles": [
-    "canvases/Smooth Manifold.canvas",
+    "Topology/Intersection of Topologies.md",
+    "README.md",
+    "Topology/Closed Set.md",
+    "Topology/Open Set.md",
+    "Topology/Basis.md",
+    "Topology/Topology.md",
+    "Topology/Intersection of countable open sets is open.md",
+    "Topology/Second Countable.md",
+    "Differential Geometry/Topological Manifold.md",
+    "Topology/Countable.md",
+    "Measure Theory/Sigma Algebra Generated by {S}.md",
+    "Differential Geometry/Refinement of a Covering.md",
+    "Topology/Discrete Topology.md",
+    "Topology/Hausdorff Space.md",
+    "Topology/Homeomorphic.md",
+    "Topology/Homeomorphism.md",
+    "Topology/Separation by Neighborhoods.md",
+    "Topology/Topological Space.md",
+    "Functional Analysis/README.md",
+    "Measure Theory/README.md",
+    "Differential Geometry/Chart.md",
+    "Measure Theory/Trace Sigma Algebra.md",
+    "Measure Theory/Minimal Sigma Algebra.md",
     "canvases/Paracompact.canvas",
+    "Measure Theory/Sigma Algebra.md",
+    "Measure Theory/Generated Sigma Algebra.md",
+    "Topology/Neighborhood.md",
+    "canvases/Smooth Manifold.canvas",
+    "Differential Geometry",
+    "Functional Analysis",
+    "Measure Theory",
+    "Topology",
+    "Untitled.canvas",
     "canvases",
-    "Smooth Manifold.md",
-    "Smooth Atlas.md",
-    "Topological Manifold.md",
-    "Smooth Structure.md",
-    "Chart.md",
-    "Covering.md",
-    "Coordinate Function.md",
-    "Coordinate Map.md",
-    "Coordinate Neighborhood.md",
-    "Separation by Neighborhoods.md",
-    "Refinement of a Covering.md",
-    "Paracompact.md",
-    "Locally Euclidean Space.md",
-    "Neighborhood.md",
-    "Locally Finite Covering.md",
-    "Homeomorphism.md",
-    "Homeomorphic.md",
-    "Hausdorff Space.md",
-    "templates/Definition.md",
-    "templates/Example.md",
-    "refinement.md",
-    "Topological Space.md",
-    "templates/Lemma.md",
-    "templates/Theorem.md",
-    "templates/Exercise.md",
     "templates"
   ]
 }

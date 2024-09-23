@@ -1,5 +1,6 @@
+#definition
 ### Types
-- `M` : Topological Space
+- `M` : [[Topological Space]]
 - $\{U_{\alpha}\}_{\alpha\in\text{A}}$ : [[Covering]] of `M`
 - $\{V_{\alpha}\}_{\alpha\in\text{A}}$ : [[Covering]] of `M`
 ### Definition
