@@ -1,4 +1,6 @@
 #theorem
+### Types
+- 
 ### Statement
 
 ### Proof

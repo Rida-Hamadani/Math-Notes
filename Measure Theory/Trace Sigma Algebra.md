@@ -4,7 +4,7 @@
 - `E` : Subset `X`
 - $\mathcal{A}$ : [[Sigma Algebra]] on `X`
 ### Definition
-The intersection of `E` with every set in $\mathcal{A}$ is a [[Sigma Algebra]] on `E` named the *trace sigma algebra*.
+The intersection of `E` with every set in $\mathcal{A}$ is a [[sigma algebra]] on `E` named the *trace sigma algebra*.
 
 ### Notation
 $\mathcal{A}\Big/E$

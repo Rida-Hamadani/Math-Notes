@@ -1,4 +1,6 @@
 #lemma
+### Types
+- 
 ### Statement
 
 ### Proof
