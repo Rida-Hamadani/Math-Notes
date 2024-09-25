@@ -11,28 +11,42 @@
       "query": "path:Topology  ",
       "color": {
         "a": 1,
-        "rgb": 62814
+        "rgb": 11722849
       }
     },
     {
       "query": "path:\"Measure Theory\"  ",
       "color": {
         "a": 1,
-        "rgb": 7935
+        "rgb": 8302805
       }
     },
     {
       "query": "path:\"Differential Geometry\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16613231
       }
     },
     {
       "query": "path:\"Functional Analysis\"  ",
       "color": {
         "a": 1,
-        "rgb": 16771584
+        "rgb": 16758106
+      }
+    },
+    {
+      "query": "path:General  ",
+      "color": {
+        "a": 1,
+        "rgb": 12418750
+      }
+    },
+    {
+      "query": "path:Algebra  ",
+      "color": {
+        "a": 1,
+        "rgb": 9163719
       }
     }
   ],
@@ -46,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8854989543150412,
+  "scale": 1.2399771179623813,
   "close": true
 }
