@@ -2,4 +2,4 @@
 ### Types
 - `S` : Nonempty Set
 ### Definition
-The [[power set]] of `X` defines a [[Sigma Algebra]] on `X` the *maximal sigma algebra* in `X`. 
+The [[Power Set]] of `X` defines a [[Sigma Algebra]] on `X` the *maximal sigma algebra* in `X`. 
