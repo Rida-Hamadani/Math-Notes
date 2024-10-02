@@ -2,7 +2,7 @@
 ### Types
 - `X` : [[Topological Space]] 
 ### Statement
-The identity function $Id_X : X \to X$ is [[Continuity|continuous]].
+The identity function $Id_X : X \to X$ is [[Topology/Continuity/Continuity|continuous]].
 ### Proof
 Let `U` be an [[Open Set|open]] subset of `X`, then:
 $$
@@ -12,4 +12,4 @@ Id_X^{-1}\left(U\right)&=\left\{ x\in X | Id_{X}\left( x \right)\in U  \right\} 
 &= U 
 \end{aligned}
 $$
-which is [[Open Set|open]] in `X`, so $Id_X$ is [[Continuity|continuous]].
+which is [[Open Set|open]] in `X`, so $Id_X$ is [[Topology/Continuity/Continuity|continuous]].

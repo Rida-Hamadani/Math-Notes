@@ -1,8 +1,8 @@
-#exercise #todo 
+#exercise 
 ### Question
 Prove that the [[projective space]] over $\mathbb{R}^{n+1}$ is a [[smooth manifold]].
 ### Answer
-Let $\pi : \mathbb{R}^{n+1} - \left\{ 0 \right\} \to \mathbb{P}\left( \mathbb{R}^{n+1} \right)$ defined as $\pi\left( x \right) = \left[ x \right]= span\left( x \right)$, note that $\pi \left( \lambda x \right) = \pi \left( x \right)$ for any $\lambda \in \mathbb{R} - \left\{ 0 \right\}$. The $\pi$ map is [[continuity|continuous]] ( #todo in topology). Let's define our [[chart]]s as $\left( V_{i}, \varphi_{i} \right)$, $i \in \left\{ 1, 2, \cdots, n+1 \right\}$ as: 
+Let $\pi : \mathbb{R}^{n+1} - \left\{ 0 \right\} \to \mathbb{P}\left( \mathbb{R}^{n+1} \right)$ defined as $\pi\left( x \right) = \left[ x \right]= span\left( x \right)$, note that $\pi \left( \lambda x \right) = \pi \left( x \right)$ for any $\lambda \in \mathbb{R} - \left\{ 0 \right\}$. The $\pi$ map is [[Topology/Continuity/Continuity|continuous]] ( #todo in topology). Let's define our [[chart]]s as $\left( V_{i}, \varphi_{i} \right)$, $i \in \left\{ 1, 2, \cdots, n+1 \right\}$ as: 
 $$
 \begin{aligned}
 V_{i} &= \left\{ l \in \mathbb{P}\left( \mathbb{R}^{n +1} \right) \right\} \text{ such that } l \text{ is not in the } x_{i} \text{hyperplane}\\
@@ -22,3 +22,4 @@ $$
 $$
 Which are smooth on the domains, thus $\mathbb{P}\left( \mathbb{R}^{n+1}  \right)$ is a [[smooth manifold].]
 ##### Source
+Problem 1.81 - Analysis and Algebra on Differentiable Manifolds by Gadea et al

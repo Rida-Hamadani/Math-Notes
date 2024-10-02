@@ -1,4 +1,4 @@
-#definition #todo 
+#definition
 ### Types
 - `M` : [[Smooth Manifold]]
 - `p` : `M`
