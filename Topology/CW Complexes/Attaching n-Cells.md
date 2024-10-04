@@ -7,5 +7,5 @@
 ### Definition
 For each $i \in I$, we have a [[continuity|continuous]] map $\varphi_{i} : \partial D_{i} \to X$. Let $\varphi : \mathbin{\unicode{x02A03}}_{i\in I} \partial D_{i} \to X$ be the map whose restriction of each $\partial D_{i}$ is $\varphi_{i}$. Any space [[homeomorphic]] the [[adjunction space]] $X \cup_{\varphi}\mathbin{\unicode{x02A03}}_{i\in I}\partial D_{i}$ is said to be obtained from $X$ by *attaching n-cells* to $X$.
 ##### Example
-![[Pasted image 20241002064309.png]]
+![[attaching ball to cylinder.png]]
 <p style="text-align:center;">Attaching 2-cells to a cylinder</p>

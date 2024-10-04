@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"c64f8697b32284b0","type":"file","file":"Topology/Compactness/Covering.md","x":-1240,"y":-920,"width":400,"height":400},
+		{"id":"c64f8697b32284b0","type":"file","file":"Topology/Covering.md","x":-1240,"y":-920,"width":400,"height":400},
 		{"id":"1b5b94da4ff51d87","type":"file","file":"Topology/Refinement of a Covering.md","x":-840,"y":-360,"width":400,"height":400},
 		{"id":"7e80783742869bf7","type":"file","file":"Topology/Compactness/Locally Finite Covering.md","x":-1640,"y":-360,"width":400,"height":400},
 		{"id":"1f3a2eade14a5fd3","type":"file","file":"Topology/Hausdorff Space.md","x":-2536,"y":-360,"width":400,"height":400},
