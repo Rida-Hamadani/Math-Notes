@@ -20,6 +20,6 @@ $$
 \left(\varphi_{j} \circ \varphi_{i}^{-1} \right)(u) &= \left(\frac{u_{1}}{u_{j}},\frac{u_{2}}{u_{j}},\cdots, \frac{u_{i-1}}{u_{j}}, \frac{1}{u_{j}},\frac{u_{i+1}}{u_{j}},\cdots, \frac{u_{n+1}}{u_{j}}\right) 
 \end{aligned}
 $$
-Which are smooth on the domains, thus $\mathbb{P}\left( \mathbb{R}^{n+1}  \right)$ is a [[smooth manifold].]
+Which are smooth on the domains, thus $\mathbb{P}\left( \mathbb{R}^{n+1}  \right)$ is a [[smooth manifold]].
 ##### Source
 Problem 1.81 - Analysis and Algebra on Differentiable Manifolds by Gadea et al
