@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"f0ea5be9a9ae5da4","type":"file","file":"Differential Geometry/1-Manifolds/1-Manifold Has a CW Decomposition.md","x":-220,"y":-240,"width":400,"height":400},
+		{"id":"2bdbdf91355e2dd0","type":"file","file":"Differential Geometry/Regular Coordinate Ball.md","x":263,"y":-1440,"width":400,"height":400},
+		{"id":"d484b7c546d8e2e7","type":"file","file":"Topology/CW Complexes/Regular CW Complex.md","x":-480,"y":-920,"width":400,"height":400},
+		{"id":"12261980ddd39194","type":"file","file":"Topology/CW Complexes/Regular Cell.md","x":-480,"y":-1440,"width":400,"height":400},
+		{"id":"c2400568db4b2a61","type":"file","file":"Topology/CW Complexes/CW Decomposition.md","x":-480,"y":-2000,"width":400,"height":400},
+		{"id":"b6ab2e76b9eff050","type":"file","file":"Topology/CW Complexes/Closed n-Cell.md","x":-480,"y":-4120,"width":400,"height":400},
+		{"id":"7cbf5b320d5fd8e5","type":"file","file":"Topology/CW Complexes/Cell Decomposition.md","x":-480,"y":-3600,"width":400,"height":400},
+		{"id":"6f97b7b6e957e92c","type":"file","file":"Topology/CW Complexes/Cell Complex.md","x":-480,"y":-3100,"width":400,"height":400},
+		{"id":"e06cb382561a2f14","type":"file","file":"Topology/Coherence.md","x":-960,"y":-2560,"width":400,"height":400},
+		{"id":"ab419b5de4a8764f","type":"file","file":"Topology/CW Complexes/CW Complex.md","x":-480,"y":-2560,"width":400,"height":400},
+		{"id":"df06b36ae8db79c1","type":"file","file":"Differential Geometry/Manifolds Have Countable Basis of Regular Coordinate Balls.md","x":263,"y":-880,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f8bd90dac88f16c8","fromNode":"2bdbdf91355e2dd0","fromSide":"bottom","toNode":"df06b36ae8db79c1","toSide":"top"},
+		{"id":"eb73548d0ba27e22","fromNode":"df06b36ae8db79c1","fromSide":"bottom","toNode":"f0ea5be9a9ae5da4","toSide":"right"},
+		{"id":"5a08e0ee3c977220","fromNode":"d484b7c546d8e2e7","fromSide":"bottom","toNode":"f0ea5be9a9ae5da4","toSide":"top"},
+		{"id":"00c7f730f284466f","fromNode":"12261980ddd39194","fromSide":"bottom","toNode":"d484b7c546d8e2e7","toSide":"top"},
+		{"id":"f5e8bfda192b7bbc","fromNode":"7cbf5b320d5fd8e5","fromSide":"bottom","toNode":"6f97b7b6e957e92c","toSide":"top"},
+		{"id":"68ae0c4a9b5c4924","fromNode":"b6ab2e76b9eff050","fromSide":"bottom","toNode":"7cbf5b320d5fd8e5","toSide":"top"},
+		{"id":"144bc973729ca0e6","fromNode":"6f97b7b6e957e92c","fromSide":"bottom","toNode":"ab419b5de4a8764f","toSide":"top"},
+		{"id":"72330f154ce90fdd","fromNode":"ab419b5de4a8764f","fromSide":"bottom","toNode":"c2400568db4b2a61","toSide":"top"},
+		{"id":"65e0e1f83a9370cf","fromNode":"c2400568db4b2a61","fromSide":"bottom","toNode":"12261980ddd39194","toSide":"top"},
+		{"id":"80ff966d57cd0ae6","fromNode":"e06cb382561a2f14","fromSide":"right","toNode":"ab419b5de4a8764f","toSide":"left"},
+		{"id":"d1a2fb0ce83f9ba1","fromNode":"7cbf5b320d5fd8e5","fromSide":"right","toNode":"12261980ddd39194","toSide":"right"}
+	]
+}
