@@ -9,8 +9,8 @@
 		{"id":"7cbf5b320d5fd8e5","type":"file","file":"Topology/CW Complexes/Cell Decomposition.md","x":-480,"y":-3600,"width":400,"height":400},
 		{"id":"6f97b7b6e957e92c","type":"file","file":"Topology/CW Complexes/Cell Complex.md","x":-480,"y":-3100,"width":400,"height":400},
 		{"id":"e06cb382561a2f14","type":"file","file":"Topology/Coherence.md","x":-960,"y":-2560,"width":400,"height":400},
-		{"id":"ab419b5de4a8764f","type":"file","file":"Topology/CW Complexes/CW Complex.md","x":-480,"y":-2560,"width":400,"height":400},
-		{"id":"df06b36ae8db79c1","type":"file","file":"Differential Geometry/Manifolds Have Countable Basis of Regular Coordinate Balls.md","x":263,"y":-880,"width":400,"height":400}
+		{"id":"df06b36ae8db79c1","type":"file","file":"Differential Geometry/Manifolds Have Countable Basis of Regular Coordinate Balls.md","x":263,"y":-880,"width":400,"height":400},
+		{"id":"ab419b5de4a8764f","type":"file","file":"Topology/CW Complexes/CW Complex.md","x":-480,"y":-2560,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"f8bd90dac88f16c8","fromNode":"2bdbdf91355e2dd0","fromSide":"bottom","toNode":"df06b36ae8db79c1","toSide":"top"},

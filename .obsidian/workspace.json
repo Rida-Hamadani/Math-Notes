@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "9d7a55cd136516bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "32a98bdd68bf3a22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd9cc6a9e17480a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Measure Theory/Borel Sigma Algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Borel Sigma Algebra"
+            }
+          },
+          {
+            "id": "d6e940803c4855e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eed8a83582c86c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1fc024ef3dbfd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f9a82711fd46d6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1d10150f257653e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06194ebe5beb5352",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd5bfadae4cb07e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e6429b96d202a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52b0449f8b85150",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Functional Analysis/Multiplication Operator is Homeomorphism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Multiplication Operator is Homeomorphism"
+            }
+          },
+          {
+            "id": "f7d8f60688226209",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Functional Analysis/Multiplication Operator is Homeomorphism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Multiplication Operator is Homeomorphism"
+            }
+          },
+          {
+            "id": "a3b2f114569ec5c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a003906152a7ac46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Functional Analysis/Multiplication Operator is Homeomorphism.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Multiplication Operator is Homeomorphism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d6e940803c4855e1",
+  "lastOpenFiles": [
+    "canvases/Classification of 1-Manifolds.canvas",
+    "Untitled.canvas",
+    "Measure Theory/Borel Sigma Algebra.md",
+    "Functional Analysis/Multiplication Operator is Homeomorphism.md",
+    "Functional Analysis/Multiplication Operator.md",
+    "Algebra/Field.md",
+    "Topology/Intersection of countable open sets is open.md"
+  ]
+}
